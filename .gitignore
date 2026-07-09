@@ -49,6 +49,4 @@ _site/
 
 
 ### Terraform ###
-./terraform.tfstate
-terraform
-/terraform
+/terraform/.terraform/
